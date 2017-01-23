@@ -1,4 +1,5 @@
-function hello()
-{
-
+function hello() {
+    console.log('test');
 }
+
+hello();
