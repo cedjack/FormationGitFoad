@@ -13,4 +13,5 @@
 /nbproject/
 node_modules/
 .idea/*
+/log/*
 
